@@ -103,3 +103,12 @@ Faktor-faktor yang menjadi alasan utama pengunjung merekomendasikan destinasi in
 | **wisata** | 49x | Dipersepsikan sebagai destinasi liburan keluarga yang lengkap. |
 
 ---
+
+
+<br>
+
+###  Proyek Terkait
+Lihat juga pengolahan data ulasan Pantai Labuhan Jukung dengan pendekatan lainnya disini:
+
+* **Analisis Sentimen (Rule-Based):** [Wahyu-hdt/Analisis-Sentimen-Rule-Based](https://github.com/Wahyu-hdt/Analisis-Sentimen-Rule-Based)
+  > Pendekatan menggunakan kamus kata (*lexicon*) untuk menentukan polaritas sentimen tanpa melalui proses training model.
