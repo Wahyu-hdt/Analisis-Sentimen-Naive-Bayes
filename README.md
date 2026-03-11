@@ -39,7 +39,7 @@ Secara keseluruhan, sentimen positif mendominasi ulasan, namun terdapat *pain po
 
 | Distribusi Sentimen | Confusion Matrix |
 | :---: | :---: |
-| <img src="URL_GAMBAR_STATISTIK_ANDA" width="400"> | <img src="URL_GAMBAR_CONFUSION_MATRIX_ANDA" width="400"> |
+| <img src="Visualisasi/Statistik_Sentimen.png" width="400"> | <img src="URL_GAMBAR_CONFUSION_MATRIX_ANDA" width="400"> |
 | *Visualisasi jumlah ulasan Positif, Netral, dan Negatif.* | *Evaluasi performa model Naive Bayes dalam memprediksi kelas.* |
 
 ---
@@ -51,14 +51,14 @@ Visualisasi WordCloud di bawah ini menunjukkan perbedaan kontras antara aspek ya
 #### Wordcloud Positif: Daya Tarik Utama
 Pemandangan alam yang indah dan aktivitas surfing menjadi daya tarik magnet bagi pengunjung.
 <br>
-<img src="URL_GAMBAR_WC_POSITIF_ANDA" width="800">
+<img src="Visualisasi/NB_pos.png" width="800">
 
 
 
 ####  Wordcloud Negatif: Keluhan Pengunjung
 Isu kebersihan (sampah/kotor) dan kerusakan fasilitas menjadi penghambat utama kenyamanan wisata.
 <br>
-<img src="URL_GAMBAR_WC_NEGATIF_ANDA" width="800">
+<img src="Visualisasi/NB_neg.png" width="800">
 
 ---
 
