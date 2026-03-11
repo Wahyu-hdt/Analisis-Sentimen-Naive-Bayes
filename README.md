@@ -2,6 +2,7 @@
 Repository ini bertujuan untuk menganalisis sentimen pengunjung terhadap Pantai Labuhan Jukung, Krui, Lampung, berdasarkan ulasan yang diambil dari Google Maps. Dengan pendekatan klasifikasi Machine Learning (Naive Bayes Multinomial), ulasan diklasifikasikan menjadi sentimen Positif atau Negatif untuk memahami aspek apa yang paling disukai atau dikeluhkan oleh wisatawan terhadap Pantai Labuhan Jukung, Lampung.
 
 <br>
+
 <h1>Alur Kerja Repository</h1>
 ---
 
@@ -28,21 +29,25 @@ Sebelum masuk ke model, teks dibersihkan melalui tahapan:
 
 ---
 
+<br>
+
 # Hasil Visualisasi 
 
 Berdasarkan analisis sentimen yang dilakukan pada dataset ulasan **Pantai Labuhan Jukung, Lampung**, berikut adalah temuan utama yang direpresentasikan melalui visualisasi data:
 
----
 
-### 📈 Statistik & Distribusi Sentimen
+
+###  Statistik & Distribusi Sentimen
 Secara keseluruhan, sentimen positif mendominasi ulasan, namun terdapat *pain points* krusial yang ditemukan pada ulasan negatif.
 
 | Distribusi Sentimen | Confusion Matrix |
 | :---: | :---: |
-| <img src="Visualisasi/Statistik_Sentimen.png" width="400"> | <img src="URL_GAMBAR_CONFUSION_MATRIX_ANDA" width="400"> |
+| <img src="Visualisasi/Statisik_Sentimen.png" width="400"> | <img src="Visualisasi/NB_cm.png" width="400"> |
 | *Visualisasi jumlah ulasan Positif, Netral, dan Negatif.* | *Evaluasi performa model Naive Bayes dalam memprediksi kelas.* |
 
----
+
+<br>
+
 
 ###  Analisis Kata Dominan (WordCloud)
 
@@ -62,11 +67,13 @@ Isu kebersihan (sampah/kotor) dan kerusakan fasilitas menjadi penghambat utama k
 
 ---
 
+<br>
+
 ##  Insight & Analisis Mendalam
 
 Berdasarkan ekstraksi fitur dari model dan visualisasi data, berikut adalah poin-poin strategis mengenai kondisi **Pantai Labuhan Jukung**:
 
----
+
 
 ### Sentimen Negatif
 Area-area berikut memerlukan perhatian segera dari pihak pengelola untuk meningkatkan kualitas pelayanan:
@@ -80,9 +87,9 @@ Area-area berikut memerlukan perhatian segera dari pihak pengelola untuk meningk
 | **mahal** | 3x | Muncul persepsi harga makanan/tiket yang tidak konsisten di hari tertentu. |
 
 > [Catatan]
-> **Catatan Pola Kalimat:** Kata **"bagus"** muncul di ulasan negatif karena terdapat kalimat seperti: *"Pantainya **bagus**, tapi sayangnya sangat **kotor**"*. Ini menunjukkan pengunjung sebenarnya sangat mengagumi potensi alamnya, namun kecewa pada aspek operasional.
+> **Pola Kalimat:** Kata **"bagus"** muncul di ulasan negatif karena terdapat kalimat seperti: *"Pantainya **bagus**, tapi sayangnya sangat **kotor**"*. Ini menunjukkan pengunjung sebenarnya sangat mengagumi potensi alamnya, namun kecewa pada aspek operasional.
 
----
+
 
 ### Keunggulan Utama (Sentimen Positif)
 Faktor-faktor yang menjadi alasan utama pengunjung merekomendasikan destinasi ini:
