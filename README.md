@@ -78,7 +78,7 @@ Berdasarkan ekstraksi fitur dari model dan visualisasi data, berikut adalah poin
 ### Sentimen Negatif
 Area-area berikut memerlukan perhatian segera dari pihak pengelola untuk meningkatkan kualitas pelayanan:
 
-| Kata Kunci | Estimasi Frekuensi | Implikasi & Temuan |
+| Kata Kunci | Frekuensi | Insight |
 | :--- | :---: | :--- |
 | **sampah** | 10x | Masalah kebersihan sisa pengunjung masih menjadi keluhan utama. |
 | **kotor** | 7x | Area bibir pantai dan fasilitas pendukung memerlukan pembersihan rutin. |
@@ -94,7 +94,7 @@ Area-area berikut memerlukan perhatian segera dari pihak pengelola untuk meningk
 ### Keunggulan Utama (Sentimen Positif)
 Faktor-faktor yang menjadi alasan utama pengunjung merekomendasikan destinasi ini:
 
-| Kata Kunci | Estimasi Frekuensi | Daya Tarik Utama |
+| Kata Kunci |  Frekuensi |  Insight |
 | :--- | :---: | :--- |
 | **bagus** | 109x | Kepuasan umum yang sangat tinggi terhadap pengalaman berkunjung. |
 | **indah** | 89x | *Value* utama pada aspek visual: sunset dan lanskap laut biru. |
