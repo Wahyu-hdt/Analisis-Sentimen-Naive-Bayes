@@ -69,7 +69,7 @@ Isu kebersihan (sampah/kotor) dan kerusakan fasilitas menjadi penghambat utama k
 
 <br>
 
-##  Insight & Analisis Mendalam
+##  Insight 
 
 Berdasarkan ekstraksi fitur dari model dan visualisasi data, berikut adalah poin-poin strategis mengenai kondisi **Pantai Labuhan Jukung**:
 
