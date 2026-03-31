@@ -42,7 +42,7 @@ Secara keseluruhan, sentimen positif mendominasi ulasan, namun terdapat *pain po
 
 | Distribusi Sentimen | Confusion Matrix |
 | :---: | :---: |
-| <img src="Visualisasi/Statisik_Sentimen.png" width="400"> | <img src="Visualisasi/NB_cm.png" width="400"> |
+| <img src="Visualisasi/Statistik_Sentimen.png" width="400"> | <img src="Visualisasi/NB_cm.png" width="400"> |
 | *Visualisasi jumlah ulasan Positif, Netral, dan Negatif.* | *Evaluasi performa model Naive Bayes dalam memprediksi kelas.* |
 
 
