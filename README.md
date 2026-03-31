@@ -78,32 +78,36 @@ Berdasarkan ekstraksi fitur dari model dan visualisasi data, berikut adalah poin
 ### Sentimen Negatif
 Area-area berikut memerlukan perhatian segera dari pihak pengelola untuk meningkatkan kualitas pelayanan:
 
-| Kata Kunci | Frekuensi | Insight |
+| Kata Kunci | Frekuensi | Deskripsi Insight |
 | :--- | :---: | :--- |
-| **sampah** | 10x | Masalah kebersihan sisa pengunjung masih menjadi keluhan utama. |
-| **kotor** | 7x | Area bibir pantai dan fasilitas pendukung memerlukan pembersihan rutin. |
-| **rusak** | 5x | Infrastruktur (papan nama, gazebo, toilet) terindikasi mengalami penurunan kualitas. |
-| **pungli** | 4x | Adanya laporan pungutan liar yang merusak citra keamanan destinasi. |
-| **mahal** | 3x | Muncul persepsi harga makanan/tiket yang tidak konsisten di hari tertentu. |
+| **bagus** | 22x | Sering muncul dalam kalimat: *"Pantai **bagus**, tapi pengelolaan **buruk**"*. |
+| **sampah** | 10x | Kebersihan pantai dari sampah sisa pengunjung masih menjadi masalah utama. |
+| **sayang** | 9x | Kekecewaan pengunjung terhadap ekspektasi yang tidak dipenuhi |
+| **masuk** | 8x | Kendala pada jalur masuk pantai atau tiket masuk. |
+| **kotor** | 7x | Area fasilitas umum membutuhkan pembersihan rutin. |
+| **terawat** | 7x | Indikasi bahwa sarana pendukung  mulai mengalami kerusakan. |
 
 > [Catatan]
 > **Pola Kalimat:** Kata **"bagus"** muncul di ulasan negatif karena terdapat kalimat seperti: *"Pantainya **bagus**, tapi sayangnya sangat **kotor**"*. Ini menunjukkan pengunjung sebenarnya sangat mengagumi potensi alamnya, namun kecewa pada aspek operasional.
 
-
+<br>
 
 ### Keunggulan Utama (Sentimen Positif)
 Faktor-faktor yang menjadi alasan utama pengunjung merekomendasikan destinasi ini:
 
-| Kata Kunci |  Frekuensi |  Insight |
+| Kata Kunci | Frekuensi | Deskripsi Insight |
 | :--- | :---: | :--- |
-| **bagus** | 109x | Kepuasan umum yang sangat tinggi terhadap pengalaman berkunjung. |
-| **indah** | 89x | *Value* utama pada aspek visual: sunset dan lanskap laut biru. |
-| **bersih** | 62x | Apresiasi khusus pada area yang masih terjaga keasliannya. |
-| **ombak** | 51x | Destinasi unggulan bagi komunitas *surfing* dan olahraga air. |
-| **wisata** | 49x | Dipersepsikan sebagai destinasi liburan keluarga yang lengkap. |
-
+| **bagus** | 109x | Indikator kepuasan umum yang sangat tinggi. |
+| **indah** | 89x | *Value* utama pada aspek visual, terutama pemandangan *sunset*. |
+| **bersih** | 62x | Apresiasi pada area pantai yang masih terjaga keasliannya. |
+| **ombak** | 51x | Identitas kuat sebagai destinasi favorit komunitas *surfing*. |
+| **pesisir** | 33x | Potensi luasnya area pantai sebagai daya tarik wisata keluarga. |
 ---
 
+
+##  Kesimpulan & Rekomendasi
+1. **Peningkatan Manajemen Kebersihan:** Kata "sampah" dan "kotor" merupakan *pain points* utama. Diperlukan penambahan titik pembuangan sampah dan petugas kebersihan berkala.
+2. **Pemeliharaan Sarana:** Kata "terawat" menunjukkan adanya fasilitas yang mulai rusak; renovasi kecil pada toilet atau gazebo akan meningkatkan *user experience*.
 
 <br>
 
